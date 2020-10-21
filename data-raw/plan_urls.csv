@@ -1,4 +1,4 @@
 country,state,organization,year_published,year_start,year_end,url_dl,filetype,annotation,plan_type
 US,NC,North Carolina Wildlife Conservation Commission,NA,2015,2025,https://www.ncwildlife.org/Portals/0/Conserving/documents/2015WildlifeActionPlan/NC-WAP-2015-All-Documents.pdf,pdf,https://www.ncwildlife.org/plan,swap
 US,FL,Florida Fish and Wildlife Conservation Commission, NA,NA,NA,NA,NA,NA,
-US,VA,Virginia Department of Game and Inland Fisheries,,2015,2025,http://bewildvirginia.org/wildlife-action-plan/pdf/2015-Virginia-Wildlife-Action-Plan.pdf,,,swp
+US,VA,Virginia Department of Game and Inland Fisheries,,2015,2025,http://bewildvirginia.org/wildlife-action-plan/pdf/2015-Virginia-Wildlife-Action-Plan.pdf,pdf,,swp
