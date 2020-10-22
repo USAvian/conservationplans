@@ -38,3 +38,6 @@ docs
 
 # Ignore locally downloaded reports/plans
 *./data-raw/imports/
+
+# Ignore mac shit
+*.DS-STORE
