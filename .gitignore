@@ -44,3 +44,4 @@ docs
 
 # Ignore mac shit
 *.DS-STORE
+.DS_Store
